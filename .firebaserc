@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "project-25342",
+    "test": "project-25342"
+  },
+  "targets": {},
+  "estags": {}
+}
